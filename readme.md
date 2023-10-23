@@ -3,10 +3,10 @@
   ![badge](https://img.shields.io/badge/license-MIT-blue.svg)
 
   ## Table of Contents
-  [Description](#description)
-  [Installation](#installation)
-  [Usage](#usage)
-  [Contributing](#contributing)
+  [Description](#description) <br/>
+  [Installation](#installation) <br/>
+  [Usage](#usage) <br/>
+  [Contributing](#contributing) <br/>
   [questions](#questions)
 
 
@@ -32,6 +32,7 @@
   N/A
 
   ## Demo
+  ![JATE](https://github.com/ChazCoats98/Chaz-Coats_Excellent-Text-Editor/assets/134428862/3304656d-c0e1-4d09-8abd-0ad8fa97c817)
 
   ## Questions
   To view my GitHub profile, visit [GitHub] (https://github.com/ChazCoats98).
